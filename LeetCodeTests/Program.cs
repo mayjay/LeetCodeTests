@@ -20,7 +20,12 @@ namespace LeetCodeTests
             //new A0007Reverse().Test();
             //new A0008MyAtoi().Test();
             //new A0009IsPalindrome().Test();
-            new A0010IsMatch().Test();
+            //new A0010IsMatch().Test();
+            //new A0011MaxArea().Test();
+            //new A0012IntToRoman().Test();
+            //new A0013RomanToInt().Test();
+            //new A0014LongestCommonPrefix().Test();
+            new A0015ThreeSum().Test();
         }
     }
 }

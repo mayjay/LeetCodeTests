@@ -53,6 +53,11 @@
     <Compile Include="Tests\A0008MyAtoi.cs" />
     <Compile Include="Tests\A0009IsPalindrome.cs" />
     <Compile Include="Tests\A0010IsMatch.cs" />
+    <Compile Include="Tests\A0011MaxArea.cs" />
+    <Compile Include="Tests\A0012IntToRoman.cs" />
+    <Compile Include="Tests\A0013RomanToInt.cs" />
+    <Compile Include="Tests\A0014LongestCommonPrefix.cs" />
+    <Compile Include="Tests\A0015ThreeSum.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
