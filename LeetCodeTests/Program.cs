@@ -25,7 +25,22 @@ namespace LeetCodeTests
             //new A0012IntToRoman().Test();
             //new A0013RomanToInt().Test();
             //new A0014LongestCommonPrefix().Test();
-            new A0015ThreeSum().Test();
+            //new A0015ThreeSum().Test();
+            //new A0016ThreeSumClosest().Test();
+            //new A0017LetterCombinations().Test();
+            //new A0018FourSum().Test();
+            //new A0019RemoveNthFromEnd().Test();
+            //new A0020IsValid().Test();
+            //new A0021MergeTwoLists().Test();
+            //new A0022GenerateParenthesis().Test();
+            //new A0023MergeKLists().Test();
+            //new A0024SwapPairs().Test();
+            //new A0025ReverseKGroup().Test();
+            //new A0026RemoveDuplicates().Test();
+            //new A0027RemoveElement().Test();
+            //new A0028StrStr().Test();
+            //new A0029Divide().Test();
+            new A0030FindSubstring().Test();
         }
     }
 }

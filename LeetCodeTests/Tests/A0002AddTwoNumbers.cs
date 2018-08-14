@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace LeetCodeTests.Tests
 {
     class A0002AddTwoNumbers
@@ -14,36 +15,6 @@ namespace LeetCodeTests.Tests
         //输入：(2 -> 4 -> 3) + (5 -> 6 -> 4)
         //输出：7 -> 0 -> 8
         //原因：342 + 465 = 807
-
-        public class ListNode
-        {
-            public int val;
-            public ListNode next;
-            public ListNode(int x) { val = x; }
-        }
-
-        private ListNode Convert(int input)
-        {
-            ListNode result = new ListNode(0);
-            ListNode current = result;
-            int bit = 0;
-            while (true)
-            {
-                current.val = (input / (int)Math.Pow(10, bit)) % 10;
-                bit += 1;
-                if (input / (int)Math.Pow(10, bit) > 0)
-                {
-                    ListNode next = new ListNode(0);
-                    current.next = next;
-                    current = next;
-                }
-                else
-                {
-                    break;
-                }
-            }
-            return result;
-        }
 
         public ListNode AddTwoNumbers(ListNode l1, ListNode l2)
         {
@@ -75,17 +46,40 @@ namespace LeetCodeTests.Tests
             return result;
         }
 
+        private ListNode Convert(int input)
+        {
+            ListNode result = new ListNode(0);
+            ListNode current = result;
+            int bit = 0;
+            while (true)
+            {
+                current.val = (input / (int)Math.Pow(10, bit)) % 10;
+                bit += 1;
+                if (input / (int)Math.Pow(10, bit) > 0)
+                {
+                    ListNode next = new ListNode(0);
+                    current.next = next;
+                    current = next;
+                }
+                else
+                {
+                    break;
+                }
+            }
+            return result;
+        }
+
         public void Test()
         {
             int add1 = 342;
             int add2 = 465;
             ListNode result = AddTwoNumbers(Convert(add1), Convert(add2));
             ListNode output = result;
-            do
+            while (output != null)
             {
                 Console.Write(output.val + " ");
                 output = output.next;
-            } while (output != null);
+            }
             Console.ReadLine();
         }
     }

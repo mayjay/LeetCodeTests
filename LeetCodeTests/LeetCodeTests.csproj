@@ -58,6 +58,22 @@
     <Compile Include="Tests\A0013RomanToInt.cs" />
     <Compile Include="Tests\A0014LongestCommonPrefix.cs" />
     <Compile Include="Tests\A0015ThreeSum.cs" />
+    <Compile Include="Tests\A0016ThreeSumClosest.cs" />
+    <Compile Include="Tests\A0017LetterCombinations.cs" />
+    <Compile Include="Tests\A0018FourSum.cs" />
+    <Compile Include="Tests\A0019RemoveNthFromEnd.cs" />
+    <Compile Include="Tests\A0020IsValid.cs" />
+    <Compile Include="Tests\A0021MergeTwoLists.cs" />
+    <Compile Include="Tests\A0022GenerateParenthesis.cs" />
+    <Compile Include="Tests\A0023MergeKLists.cs" />
+    <Compile Include="Tests\A0024SwapPairs.cs" />
+    <Compile Include="Tests\A0025ReverseKGroup.cs" />
+    <Compile Include="Tests\A0026RemoveDuplicates.cs" />
+    <Compile Include="Tests\A0027RemoveElement.cs" />
+    <Compile Include="Tests\A0028StrStr.cs" />
+    <Compile Include="Tests\A0029Divide.cs" />
+    <Compile Include="Tests\A0030FindSubstring.cs" />
+    <Compile Include="Tests\ListNode.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
