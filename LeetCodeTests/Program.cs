@@ -45,7 +45,12 @@ namespace LeetCodeTests
             //new A0032LongestValidParentheses().Test();
             //new A0033Search().Test();
             //new A0034SearchRange().Test();
-            new A0035SearchInsert().Test();
+            //new A0035SearchInsert().Test();
+            //new A0036IsValidSudoku().Test();
+            //new A0037SolveSudoku().Test();
+            //new A0038CountAndSay().Test();
+            //new A0039CombinationSum().Test();
+            new A0040CombinationSum2().Test();
         }
     }
 }

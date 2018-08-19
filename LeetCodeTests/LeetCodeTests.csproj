@@ -78,6 +78,11 @@
     <Compile Include="Tests\A0033Search.cs" />
     <Compile Include="Tests\A0034SearchRange.cs" />
     <Compile Include="Tests\A0035SearchInsert.cs" />
+    <Compile Include="Tests\A0036IsValidSudoku.cs" />
+    <Compile Include="Tests\A0037SolveSudoku.cs" />
+    <Compile Include="Tests\A0038CountAndSay.cs" />
+    <Compile Include="Tests\A0039CombinationSum.cs" />
+    <Compile Include="Tests\A0040CombinationSum2.cs" />
     <Compile Include="Tests\ListNode.cs" />
   </ItemGroup>
   <ItemGroup>
