@@ -146,8 +146,8 @@ namespace LeetCodeTests.Tests
 
         public void Test()
         {
-            string s = "barfoothefoobarman";
-            string[] words = { "foo", "bar" };
+            string s = "barfoofoobarthefoobarman";
+            string[] words = { "bar","foo","the" };
             IList<int> result = FindSubstring(s, words);
             Console.WriteLine("result count " + result.Count());
             foreach (int e in result)

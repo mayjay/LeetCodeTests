@@ -40,7 +40,6 @@ namespace LeetCodeTests.Tests
             List<bool> checkedList = new List<bool>(s.Length);
             for (int i = 0; i < s.Length; i++) checkedList.Add(false);
             int index = 0;
-            //direction 1:right;-1:left. default right
             int checkCount = 0;
             while (checkCount < s.Length)
             {
@@ -48,9 +47,10 @@ namespace LeetCodeTests.Tests
                 //find first unchecked right bracket and match left
                 if (checkedList[index] == false && !IsLeftBracket(brackets, s[index]))
                 {
-                    //find left unchecked bracket index
-                    for (int i = index - 1; i >= 0; i--)
+                    //find left unchecked bracket index, if can not find, return false
+                    for (int i = index - 1; i >= -1; i--)
                     {
+                        if (i < 0) return false;
                         if (checkedList[i] == false)
                         {
                             char left = s[i];

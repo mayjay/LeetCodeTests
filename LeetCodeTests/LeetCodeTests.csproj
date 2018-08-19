@@ -73,6 +73,11 @@
     <Compile Include="Tests\A0028StrStr.cs" />
     <Compile Include="Tests\A0029Divide.cs" />
     <Compile Include="Tests\A0030FindSubstring.cs" />
+    <Compile Include="Tests\A0031NextPermutation.cs" />
+    <Compile Include="Tests\A0032LongestValidParentheses.cs" />
+    <Compile Include="Tests\A0033Search.cs" />
+    <Compile Include="Tests\A0034SearchRange.cs" />
+    <Compile Include="Tests\A0035SearchInsert.cs" />
     <Compile Include="Tests\ListNode.cs" />
   </ItemGroup>
   <ItemGroup>

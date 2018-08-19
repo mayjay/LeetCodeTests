@@ -40,7 +40,12 @@ namespace LeetCodeTests
             //new A0027RemoveElement().Test();
             //new A0028StrStr().Test();
             //new A0029Divide().Test();
-            new A0030FindSubstring().Test();
+            //new A0030FindSubstring().Test();
+            //new A0031NextPermutation().Test();
+            //new A0032LongestValidParentheses().Test();
+            //new A0033Search().Test();
+            //new A0034SearchRange().Test();
+            new A0035SearchInsert().Test();
         }
     }
 }
