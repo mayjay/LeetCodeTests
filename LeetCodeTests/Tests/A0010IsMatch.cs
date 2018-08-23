@@ -53,10 +53,7 @@ namespace LeetCodeTests.Tests
             //- 若p的第二个字符为*，若s不为空且字符匹配，调用递归函数匹配s和去掉前两个字符的p，若匹配返回true，否则s去掉首字母
             //- 返回调用递归函数匹配s和去掉前两个字符的p的结果
             if (p.Length == 0) return s.Length == 0;
-            if (p.Length == 1)
-            {
-                return (s.Length == 1 && (s[0] == p[0] || p[0] == '.'));
-            }
+            if (p.Length == 1) return (s.Length == 1 && (s[0] == p[0] || p[0] == '.'));
             if (p[1] != '*')
             {
                 if (s.Length == 0) return false;

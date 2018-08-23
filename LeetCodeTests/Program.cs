@@ -50,7 +50,27 @@ namespace LeetCodeTests
             //new A0037SolveSudoku().Test();
             //new A0038CountAndSay().Test();
             //new A0039CombinationSum().Test();
-            new A0040CombinationSum2().Test();
+            //new A0040CombinationSum2().Test();
+            //new A0041FirstMissingPositive().Test();
+            //new A0042Trap().Test();
+            //new A0043Multiply().Test();
+            //new A0044IsMatch().Test();
+            //new A0045Jump().Test();
+            //new A0046Permute().Test();
+            //new A0047PermuteUnique().Test();
+            //new A0048Rotate().Test();
+            //new A0049GroupAnagrams().Test();
+            //new A0050MyPow().Test();
+            //new A0051SolveNQueens().Test();
+            //new A0052TotalNQueens().Test();
+            //new A0053MaxSubArray().Test();
+            //new A0054SpiralOrder().Test();
+            //new A0055CanJump().Test();
+            //new A0056Merge().Test();
+            //new A0057Insert().Test();
+            //new A0058LengthOfLastWord().Test();
+            //new A0059GenerateMatrix().Test();
+            new A0060GetPermutation().Test();
         }
     }
 }

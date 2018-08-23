@@ -83,6 +83,27 @@
     <Compile Include="Tests\A0038CountAndSay.cs" />
     <Compile Include="Tests\A0039CombinationSum.cs" />
     <Compile Include="Tests\A0040CombinationSum2.cs" />
+    <Compile Include="Tests\A0041FirstMissingPositive.cs" />
+    <Compile Include="Tests\A0042Trap.cs" />
+    <Compile Include="Tests\A0043Multiply.cs" />
+    <Compile Include="Tests\A0044IsMatch.cs" />
+    <Compile Include="Tests\A0045Jump.cs" />
+    <Compile Include="Tests\A0046Permute.cs" />
+    <Compile Include="Tests\A0047PermuteUnique.cs" />
+    <Compile Include="Tests\A0048Rotate.cs" />
+    <Compile Include="Tests\A0049GroupAnagrams.cs" />
+    <Compile Include="Tests\A0050MyPow.cs" />
+    <Compile Include="Tests\A0051SolveNQueens.cs" />
+    <Compile Include="Tests\A0052TotalNQueens.cs" />
+    <Compile Include="Tests\A0053MaxSubArray.cs" />
+    <Compile Include="Tests\A0054SpiralOrder.cs" />
+    <Compile Include="Tests\A0055CanJump.cs" />
+    <Compile Include="Tests\A0056Merge.cs" />
+    <Compile Include="Tests\A0057Insert.cs" />
+    <Compile Include="Tests\A0058LengthOfLastWord.cs" />
+    <Compile Include="Tests\A0059GenerateMatrix.cs" />
+    <Compile Include="Tests\A0060GetPermutation.cs" />
+    <Compile Include="Tests\Interval.cs" />
     <Compile Include="Tests\ListNode.cs" />
   </ItemGroup>
   <ItemGroup>
