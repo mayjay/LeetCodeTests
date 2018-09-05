@@ -70,7 +70,17 @@ namespace LeetCodeTests
             //new A0057Insert().Test();
             //new A0058LengthOfLastWord().Test();
             //new A0059GenerateMatrix().Test();
-            new A0060GetPermutation().Test();
+            //new A0060GetPermutation().Test();
+            //new A0061RotateRight().Test();
+            //new A0062UniquePaths().Test();
+            //new A0063UniquePathsWithObstacles().Test();
+            //new A0064MinPathSum().Test();
+            //new A0065IsNumber().Test();
+            //new A0066PlusOne().Test();
+            //new A0067AddBinary().Test();
+            //new A0068FullJustify().Test();
+            //new A0069MySqrt().Test();
+            new A0070ClimbStairs().Test();
         }
     }
 }

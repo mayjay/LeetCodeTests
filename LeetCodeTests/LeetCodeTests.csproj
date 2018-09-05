@@ -103,6 +103,17 @@
     <Compile Include="Tests\A0058LengthOfLastWord.cs" />
     <Compile Include="Tests\A0059GenerateMatrix.cs" />
     <Compile Include="Tests\A0060GetPermutation.cs" />
+    <Compile Include="Tests\A0061RotateRight.cs" />
+    <Compile Include="Tests\A0062UniquePaths.cs" />
+    <Compile Include="Tests\A0063UniquePathsWithObstacles.cs" />
+    <Compile Include="Tests\A0064MinPathSum.cs" />
+    <Compile Include="Tests\A0065IsNumber.cs" />
+    <Compile Include="Tests\A0066PlusOne.cs" />
+    <Compile Include="Tests\A0067AddBinary.cs" />
+    <Compile Include="Tests\A0068FullJustify.cs" />
+    <Compile Include="Tests\A0069MySqrt.cs" />
+    <Compile Include="Tests\A0070ClimbStairs.cs" />
+    <Compile Include="Tests\A0891SumSubseqWidths.cs" />
     <Compile Include="Tests\Interval.cs" />
     <Compile Include="Tests\ListNode.cs" />
   </ItemGroup>
