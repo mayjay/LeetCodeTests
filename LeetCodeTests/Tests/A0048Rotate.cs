@@ -43,7 +43,7 @@ namespace LeetCodeTests.Tests
 
         public void Rotate(int[,] matrix)
         {
-            int column = matrix.GetUpperBound(0) + 1;
+            int column = matrix.GetLength(0);
             //transpose matrix
             for (int i = 0; i < column; i++)
             {
@@ -78,7 +78,7 @@ namespace LeetCodeTests.Tests
                            };
             Rotate(input);
             int count = 0;
-            int column = input.GetUpperBound(0) + 1;
+            int column = input.GetLength(0);
             foreach (int e in input)
             {
                 Console.Write(e + " ");

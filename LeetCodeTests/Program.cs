@@ -80,7 +80,17 @@ namespace LeetCodeTests
             //new A0067AddBinary().Test();
             //new A0068FullJustify().Test();
             //new A0069MySqrt().Test();
-            new A0070ClimbStairs().Test();
+            //new A0070ClimbStairs().Test();
+            //new A0071SimplifyPath().Test();
+            //new A0072MinDistance().Test();
+            //new A0073SetZeroes().Test();
+            //new A0074SearchMatrix().Test();
+            //new A0075SortColors().Test();
+            //new A0076MinWindow().Test();
+            //new A0077Combine().Test();
+            //new A0078Subsets().Test();
+            //new A0079Exist().Test();
+            new A0080RemoveDuplicates().Test();
         }
     }
 }

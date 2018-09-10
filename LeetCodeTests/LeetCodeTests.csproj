@@ -113,6 +113,16 @@
     <Compile Include="Tests\A0068FullJustify.cs" />
     <Compile Include="Tests\A0069MySqrt.cs" />
     <Compile Include="Tests\A0070ClimbStairs.cs" />
+    <Compile Include="Tests\A0071SimplifyPath.cs" />
+    <Compile Include="Tests\A0072MinDistance.cs" />
+    <Compile Include="Tests\A0073SetZeroes.cs" />
+    <Compile Include="Tests\A0074SearchMatrix.cs" />
+    <Compile Include="Tests\A0075SortColors.cs" />
+    <Compile Include="Tests\A0076MinWindow.cs" />
+    <Compile Include="Tests\A0077Combine.cs" />
+    <Compile Include="Tests\A0078Subsets.cs" />
+    <Compile Include="Tests\A0079Exist.cs" />
+    <Compile Include="Tests\A0080RemoveDuplicates.cs" />
     <Compile Include="Tests\A0891SumSubseqWidths.cs" />
     <Compile Include="Tests\Interval.cs" />
     <Compile Include="Tests\ListNode.cs" />
