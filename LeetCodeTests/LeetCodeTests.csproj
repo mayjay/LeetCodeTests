@@ -123,9 +123,30 @@
     <Compile Include="Tests\A0078Subsets.cs" />
     <Compile Include="Tests\A0079Exist.cs" />
     <Compile Include="Tests\A0080RemoveDuplicates.cs" />
+    <Compile Include="Tests\A0081Search.cs" />
+    <Compile Include="Tests\A0082DeleteDuplicates.cs" />
+    <Compile Include="Tests\A0083DeleteDuplicates.cs" />
+    <Compile Include="Tests\A0084LargestRectangleArea.cs" />
+    <Compile Include="Tests\A0085MaximalRectangle.cs" />
+    <Compile Include="Tests\A0086Partition.cs" />
+    <Compile Include="Tests\A0087IsScramble.cs" />
+    <Compile Include="Tests\A0088Merge.cs" />
+    <Compile Include="Tests\A0089GrayCode.cs" />
+    <Compile Include="Tests\A0090SubsetsWithDup.cs" />
+    <Compile Include="Tests\A0091NumDecodings.cs" />
+    <Compile Include="Tests\A0092ReverseBetween.cs" />
+    <Compile Include="Tests\A0093RestoreIpAddresses.cs" />
+    <Compile Include="Tests\A0094InorderTraversal.cs" />
+    <Compile Include="Tests\A0095GenerateTrees.cs" />
+    <Compile Include="Tests\A0096NumTrees.cs" />
+    <Compile Include="Tests\A0097IsInterleave.cs" />
+    <Compile Include="Tests\A0098IsValidBST.cs" />
+    <Compile Include="Tests\A0099RecoverTree.cs" />
+    <Compile Include="Tests\A0100IsSameTree.cs" />
     <Compile Include="Tests\A0891SumSubseqWidths.cs" />
     <Compile Include="Tests\Interval.cs" />
     <Compile Include="Tests\ListNode.cs" />
+    <Compile Include="Tests\TreeNode.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

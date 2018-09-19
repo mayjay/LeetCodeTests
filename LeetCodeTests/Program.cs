@@ -90,7 +90,17 @@ namespace LeetCodeTests
             //new A0077Combine().Test();
             //new A0078Subsets().Test();
             //new A0079Exist().Test();
-            new A0080RemoveDuplicates().Test();
+            //new A0080RemoveDuplicates().Test();
+            //new A0081Search().Test();
+            //new A0082DeleteDuplicates().Test();
+            //new A0083DeleteDuplicates().Test();
+            //new A0084LargestRectangleArea().Test();
+            //new A0085MaximalRectangle().Test();
+            //new A0086Partition().Test();
+            //new A0087IsScramble().Test();
+            //new A0088Merge().Test();
+            //new A0089GrayCode().Test();
+            new A0090SubsetsWithDup().Test();
         }
     }
 }
