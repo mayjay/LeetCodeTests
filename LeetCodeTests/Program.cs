@@ -100,7 +100,17 @@ namespace LeetCodeTests
             //new A0087IsScramble().Test();
             //new A0088Merge().Test();
             //new A0089GrayCode().Test();
-            new A0090SubsetsWithDup().Test();
+            //new A0090SubsetsWithDup().Test();
+            //new A0091NumDecodings().Test();
+            //new A0092ReverseBetween().Test();
+            //new A0093RestoreIpAddresses().Test();
+            //new A0094InorderTraversal().Test();
+            //new A0095GenerateTrees().Test();
+            //new A0096NumTrees().Test();
+            //new A0097IsInterleave().Test();
+            //new A0098IsValidBST().Test();
+            //new A0099RecoverTree().Test();
+            new A0100IsSameTree().Test();
         }
     }
 }
