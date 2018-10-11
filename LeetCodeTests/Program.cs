@@ -110,7 +110,17 @@ namespace LeetCodeTests
             //new A0097IsInterleave().Test();
             //new A0098IsValidBST().Test();
             //new A0099RecoverTree().Test();
-            new A0100IsSameTree().Test();
+            //new A0100IsSameTree().Test();
+            //new A0101IsSymmetric().Test();
+            //new A0102LevelOrder().Test();
+            //new A0103ZigzagLevelOrder().Test();
+            //new A0104MaxDepth().Test();
+            //new A0105BuildTree().Test();
+            //new A0106BuildTree().Test();
+            //new A0107LevelOrderBottom().Test();
+            //new A0108SortedArrayToBST().Test();
+            //new A0109SortedListToBST().Test();
+            new A0110IsBalanced().Test();
         }
     }
 }

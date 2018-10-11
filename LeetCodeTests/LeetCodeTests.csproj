@@ -143,6 +143,16 @@
     <Compile Include="Tests\A0098IsValidBST.cs" />
     <Compile Include="Tests\A0099RecoverTree.cs" />
     <Compile Include="Tests\A0100IsSameTree.cs" />
+    <Compile Include="Tests\A0101IsSymmetric.cs" />
+    <Compile Include="Tests\A0102LevelOrder.cs" />
+    <Compile Include="Tests\A0103ZigzagLevelOrder.cs" />
+    <Compile Include="Tests\A0104MaxDepth.cs" />
+    <Compile Include="Tests\A0105BuildTree.cs" />
+    <Compile Include="Tests\A0106BuildTree.cs" />
+    <Compile Include="Tests\A0107LevelOrderBottom.cs" />
+    <Compile Include="Tests\A0108SortedArrayToBST.cs" />
+    <Compile Include="Tests\A0109SortedListToBST.cs" />
+    <Compile Include="Tests\A0110IsBalanced.cs" />
     <Compile Include="Tests\A0891SumSubseqWidths.cs" />
     <Compile Include="Tests\Interval.cs" />
     <Compile Include="Tests\ListNode.cs" />
