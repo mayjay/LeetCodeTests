@@ -153,9 +153,20 @@
     <Compile Include="Tests\A0108SortedArrayToBST.cs" />
     <Compile Include="Tests\A0109SortedListToBST.cs" />
     <Compile Include="Tests\A0110IsBalanced.cs" />
+    <Compile Include="Tests\A0111MinDepth.cs" />
+    <Compile Include="Tests\A0112HasPathSum.cs" />
+    <Compile Include="Tests\A0113PathSum.cs" />
+    <Compile Include="Tests\A0114Flatten.cs" />
+    <Compile Include="Tests\A0115NumDistinct.cs" />
+    <Compile Include="Tests\A0116Connect.cs" />
+    <Compile Include="Tests\A0117Connect.cs" />
+    <Compile Include="Tests\A0118Generate.cs" />
+    <Compile Include="Tests\A0119GetRow.cs" />
+    <Compile Include="Tests\A0120MinimumTotal.cs" />
     <Compile Include="Tests\A0891SumSubseqWidths.cs" />
     <Compile Include="Tests\Interval.cs" />
     <Compile Include="Tests\ListNode.cs" />
+    <Compile Include="Tests\TreeLinkNode.cs" />
     <Compile Include="Tests\TreeNode.cs" />
   </ItemGroup>
   <ItemGroup>

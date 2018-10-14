@@ -120,7 +120,17 @@ namespace LeetCodeTests
             //new A0107LevelOrderBottom().Test();
             //new A0108SortedArrayToBST().Test();
             //new A0109SortedListToBST().Test();
-            new A0110IsBalanced().Test();
+            //new A0110IsBalanced().Test();
+            //new A0111MinDepth().Test();
+            //new A0112HasPathSum().Test();
+            //new A0113PathSum().Test();
+            //new A0114Flatten().Test();
+            //new A0115NumDistinct().Test();
+            //new A0116Connect().Test();
+            //new A0117Connect().Test();
+            //new A0118Generate().Test();
+            //new A0119GetRow().Test();
+            //new A0120MinimumTotal().Test();
         }
     }
 }
