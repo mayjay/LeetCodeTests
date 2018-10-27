@@ -163,6 +163,16 @@
     <Compile Include="Tests\A0118Generate.cs" />
     <Compile Include="Tests\A0119GetRow.cs" />
     <Compile Include="Tests\A0120MinimumTotal.cs" />
+    <Compile Include="Tests\A0121MaxProfit.cs" />
+    <Compile Include="Tests\A0122MaxProfit.cs" />
+    <Compile Include="Tests\A0123MaxProfit.cs" />
+    <Compile Include="Tests\A0124MaxPathSum.cs" />
+    <Compile Include="Tests\A0125IsPalindrome.cs" />
+    <Compile Include="Tests\A0126FindLadders.cs" />
+    <Compile Include="Tests\A0127LadderLength.cs" />
+    <Compile Include="Tests\A0128LongestConsecutive.cs" />
+    <Compile Include="Tests\A0129SumNumbers.cs" />
+    <Compile Include="Tests\A0130Solve.cs" />
     <Compile Include="Tests\A0891SumSubseqWidths.cs" />
     <Compile Include="Tests\Interval.cs" />
     <Compile Include="Tests\ListNode.cs" />

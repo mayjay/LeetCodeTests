@@ -131,6 +131,16 @@ namespace LeetCodeTests
             //new A0118Generate().Test();
             //new A0119GetRow().Test();
             //new A0120MinimumTotal().Test();
+            //new A0121MaxProfit().Test();
+            //new A0122MaxProfit().Test();
+            //new A0123MaxProfit().Test();
+            //new A0124MaxPathSum().Test();
+            //new A0125IsPalindrome().Test();
+            //new A0126FindLadders().Test();
+            //new A0127LadderLength().Test();
+            //new A0128LongestConsecutive().Test();
+            //new A0129SumNumbers().Test();
+            new A0130Solve().Test();
         }
     }
 }
