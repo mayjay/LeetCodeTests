@@ -21,6 +21,30 @@ namespace LeetCodeTests.Tests
 
         public IList<int> InorderTraversal(TreeNode root)
         {
+            IList<int> result = new List<int>();
+            if (root == null) return result;
+            Stack<TreeNode> stack = new Stack<TreeNode>();
+            TreeNode node = root;
+            while (node != null || stack.Count > 0)
+            {
+                while (node != null)
+                {
+                    stack.Push(node);
+                    node = node.left;
+                }
+                if (stack.Count > 0)
+                {
+                    TreeNode visit = stack.Pop();
+                    result.Add(visit.val);
+                    if (visit.right != null)
+                        node = visit.right;
+                }
+            }
+            return result;
+        }
+
+        public IList<int> InorderTraversal2(TreeNode root)
+        {
             List<int> result = new List<int>();
             InorderTraversal(root, result);
             return result;

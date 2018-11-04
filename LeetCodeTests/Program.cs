@@ -140,7 +140,27 @@ namespace LeetCodeTests
             //new A0127LadderLength().Test();
             //new A0128LongestConsecutive().Test();
             //new A0129SumNumbers().Test();
-            new A0130Solve().Test();
+            //new A0130Solve().Test();
+            //new A0131Partition().Test();
+            //new A0132MinCut().Test();
+            //new A0133CloneGraph().Test();
+            //new A0134CanCompleteCircuit().Test();
+            //new A0135Candy().Test();
+            //new A0136SingleNumber().Test();
+            //new A0137SingleNumber().Test();
+            //new A0138CopyRandomList().Test();
+            //new A0139WordBreak().Test();
+            //new A0140WordBreak().Test();
+            //new A0141HasCycle().Test();
+            //new A0142DetectCycle().Test();
+            //new A0143ReorderList().Test();
+            //new A0144PreorderTraversal().Test();
+            //new A0145PostorderTraversal().Test();
+            //new A0146LRUCache().Test();
+            //new A0147InsertionSortList().Test();
+            //new A0148SortList().Test();
+            //new A0149MaxPoints().Test();
+            new A0150EvalRPN().Test();
         }
     }
 }

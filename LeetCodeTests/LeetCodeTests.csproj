@@ -173,11 +173,34 @@
     <Compile Include="Tests\A0128LongestConsecutive.cs" />
     <Compile Include="Tests\A0129SumNumbers.cs" />
     <Compile Include="Tests\A0130Solve.cs" />
+    <Compile Include="Tests\A0131Partition.cs" />
+    <Compile Include="Tests\A0132MinCut.cs" />
+    <Compile Include="Tests\A0133CloneGraph.cs" />
+    <Compile Include="Tests\A0134CanCompleteCircuit.cs" />
+    <Compile Include="Tests\A0135Candy.cs" />
+    <Compile Include="Tests\A0136SingleNumber.cs" />
+    <Compile Include="Tests\A0137SingleNumber.cs" />
+    <Compile Include="Tests\A0138CopyRandomList.cs" />
+    <Compile Include="Tests\A0139WordBreak.cs" />
+    <Compile Include="Tests\A0140WordBreak.cs" />
+    <Compile Include="Tests\A0141HasCycle.cs" />
+    <Compile Include="Tests\A0142DetectCycle.cs" />
+    <Compile Include="Tests\A0143ReorderList.cs" />
+    <Compile Include="Tests\A0144PreorderTraversal.cs" />
+    <Compile Include="Tests\A0145PostorderTraversal.cs" />
+    <Compile Include="Tests\A0147InsertionSortList.cs" />
+    <Compile Include="Tests\A0146LRUCache.cs" />
+    <Compile Include="Tests\A0148SortList.cs" />
+    <Compile Include="Tests\A0149MaxPoints.cs" />
+    <Compile Include="Tests\A0150EvalRPN.cs" />
     <Compile Include="Tests\A0891SumSubseqWidths.cs" />
     <Compile Include="Tests\Interval.cs" />
     <Compile Include="Tests\ListNode.cs" />
+    <Compile Include="Tests\Point.cs" />
+    <Compile Include="Tests\RandomListNode.cs" />
     <Compile Include="Tests\TreeLinkNode.cs" />
     <Compile Include="Tests\TreeNode.cs" />
+    <Compile Include="Tests\UndirectedGraphNode.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
