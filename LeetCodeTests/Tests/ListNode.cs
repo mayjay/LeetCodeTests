@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LeetCodeTests.Tests
 {
-    class ListNode
+    public class ListNode
     {
         public int val;
         public ListNode next;

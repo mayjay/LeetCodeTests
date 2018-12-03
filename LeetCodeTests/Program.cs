@@ -160,7 +160,13 @@ namespace LeetCodeTests
             //new A0147InsertionSortList().Test();
             //new A0148SortList().Test();
             //new A0149MaxPoints().Test();
-            new A0150EvalRPN().Test();
+            //new A0150EvalRPN().Test();
+            //new A0151ReverseWords().Test();
+            //new A0152MaxProduct().Test();
+            //new A0153FindMin().Test();
+            //new A0154FindMin().Test();
+            //new A0155MinStack().Test();
+            new A0160GetIntersectionNode().Test();
         }
     }
 }

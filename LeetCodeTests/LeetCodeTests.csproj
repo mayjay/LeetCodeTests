@@ -193,7 +193,6 @@
     <Compile Include="Tests\A0148SortList.cs" />
     <Compile Include="Tests\A0149MaxPoints.cs" />
     <Compile Include="Tests\A0150EvalRPN.cs" />
-    <Compile Include="Tests\A0891SumSubseqWidths.cs" />
     <Compile Include="Tests\Interval.cs" />
     <Compile Include="Tests\ListNode.cs" />
     <Compile Include="Tests\Point.cs" />
@@ -201,6 +200,12 @@
     <Compile Include="Tests\TreeLinkNode.cs" />
     <Compile Include="Tests\TreeNode.cs" />
     <Compile Include="Tests\UndirectedGraphNode.cs" />
+    <Compile Include="Tests\A0151ReverseWords.cs" />
+    <Compile Include="Tests\A0152MaxProduct.cs" />
+    <Compile Include="Tests\A0153FindMin.cs" />
+    <Compile Include="Tests\A0154FindMin.cs" />
+    <Compile Include="Tests\A0155MinStack.cs" />
+    <Compile Include="Tests\A0160GetIntersectionNode.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
