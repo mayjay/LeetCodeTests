@@ -206,6 +206,13 @@
     <Compile Include="Tests\A0154FindMin.cs" />
     <Compile Include="Tests\A0155MinStack.cs" />
     <Compile Include="Tests\A0160GetIntersectionNode.cs" />
+    <Compile Include="Tests\A0162FindPeakElement.cs" />
+    <Compile Include="Tests\A0164MaximumGap.cs" />
+    <Compile Include="Tests\A0165CompareVersion.cs" />
+    <Compile Include="Tests\A0166FractionToDecimal.cs" />
+    <Compile Include="Tests\A0167TwoSum.cs" />
+    <Compile Include="Tests\A0168ConvertToTitle.cs" />
+    <Compile Include="Tests\A0169MajorityElement.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

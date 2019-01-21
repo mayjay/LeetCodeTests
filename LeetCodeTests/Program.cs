@@ -166,7 +166,14 @@ namespace LeetCodeTests
             //new A0153FindMin().Test();
             //new A0154FindMin().Test();
             //new A0155MinStack().Test();
-            new A0160GetIntersectionNode().Test();
+            //new A0160GetIntersectionNode().Test();
+            //new A0162FindPeakElement().Test();
+            //new A0164MaximumGap().Test();
+            //new A0165CompareVersion().Test();
+            //new A0166FractionToDecimal().Test();
+            //new A0167TwoSum().Test();
+            //new A0168ConvertToTitle().Test();
+            new A0169MajorityElement().Test();
         }
     }
 }
