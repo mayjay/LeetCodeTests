@@ -173,7 +173,12 @@ namespace LeetCodeTests
             //new A0166FractionToDecimal().Test();
             //new A0167TwoSum().Test();
             //new A0168ConvertToTitle().Test();
-            new A0169MajorityElement().Test();
+            //new A0169MajorityElement().Test();
+            //new A0171TitleToNumber().Test();
+            //new A0172TrailingZeroes().Test();
+            //new A0173BSTIterator().Test();
+            //new A0174CalculateMinimumHP().Test();
+            new A0179LargestNumber().Test();
         }
     }
 }
