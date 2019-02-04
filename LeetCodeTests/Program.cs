@@ -178,7 +178,15 @@ namespace LeetCodeTests
             //new A0172TrailingZeroes().Test();
             //new A0173BSTIterator().Test();
             //new A0174CalculateMinimumHP().Test();
-            new A0179LargestNumber().Test();
+            //new A0179LargestNumber().Test();
+            //new A0187FindRepeatedDnaSequences().Test();
+            //new A0188MaxProfit().Test();
+            //new A0189Rotate().Test();
+            //new A0190ReverseBits().Test();
+            //new A0191HammingWeight().Test();
+            //new A0198Rob().Test();
+            //new A0199RightSideView().Test();
+            new A0200NumIslands().Test();
         }
     }
 }
